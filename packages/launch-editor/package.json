@@ -1,5 +1,5 @@
 {
-  "name": "launch-editor",
+  "name": "@juln/launch-editor",
   "version": "3.0.0",
   "description": "launch editor from node.js",
   "main": "index.js",
