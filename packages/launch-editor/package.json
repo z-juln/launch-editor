@@ -11,7 +11,10 @@
     "launch",
     "editor"
   ],
-  "author": "Evan You",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "juln",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/z-juln/launch-editor/issues"
