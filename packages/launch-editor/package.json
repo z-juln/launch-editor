@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yyx990803/launch-editor.git"
+    "url": "git+https://github.com/z-juln/launch-editor.git"
   },
   "keywords": [
     "launch",
@@ -14,9 +14,9 @@
   "author": "Evan You",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yyx990803/launch-editor/issues"
+    "url": "https://github.com/z-juln/launch-editor/issues"
   },
-  "homepage": "https://github.com/yyx990803/launch-editor#readme",
+  "homepage": "https://github.com/z-juln/launch-editor#readme",
   "dependencies": {
     "picocolors": "^1.0.0",
     "shell-quote": "^1.7.3"
